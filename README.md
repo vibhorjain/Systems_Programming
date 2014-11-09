@@ -1,5 +1,5 @@
 Server:
-  copy server related files to server m/c.
+  copy server related files to server m/c (main.cpp, SocketUtilities.cpp, SocketUtilities.h).
   compile by running the command: g++ *.cpp
   run the server on some port (say 50000 in this case): ./a.out 50000
   
